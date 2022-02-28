@@ -1,0 +1,1 @@
+web: sh streamlit_setup.sh && streamlit run calculator_converter.py
